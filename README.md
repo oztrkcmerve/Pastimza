@@ -23,3 +23,15 @@ Hoca soru sorduğunda bu basit benzetmeleri ve tanımları kullanarak projeyi ç
 
 ## 6. Projenin Mevcut Durumu Nedir? (Hoca Neyi Görecek?)
 **Cevap:** "Hocam şu an projemizin omurgasını (Katmanları), veritabanı şemasını (Entities) ve modern arayüzümüzü (Frontend) tamamladık. Bir sonraki aşamada tasarım sihirbazını (Wizard) ve canlı kalori hesaplama motorunu kodlayacağız."
+
+---
+
+## 🚀 Projeyi Çalıştırma Komutu
+
+Projeyi başlatmak için terminalde projenin ana dizinindeyken şu komutu çalıştırmanız yeterlidir:
+
+```powershell
+dotnet run --project Pastimza.WebMvcLayer
+```
+
+Uygulama ayağa kalktığında tarayıcınızdan **http://localhost:5190** adresine gidebilirsiniz.
