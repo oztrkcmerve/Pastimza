@@ -1,0 +1,107 @@
+@{
+    ViewData["Title"] = "Hoş Geldiniz";
+}
+
+<style>
+    .hero {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 4rem 0;
+        gap: 2rem;
+    }
+
+    .hero-content {
+        flex: 1;
+    }
+
+    .hero-content h1 {
+        font-size: 4rem;
+        line-height: 1.1;
+        margin-bottom: 1.5rem;
+        color: var(--primary);
+    }
+
+    .hero-content p {
+        font-size: 1.2rem;
+        color: #666;
+        margin-bottom: 2.5rem;
+        max-width: 500px;
+    }
+
+    .btn-main {
+        background: var(--secondary);
+        color: white;
+        padding: 1.2rem 2.5rem;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1.1rem;
+        box-shadow: 0 10px 20px rgba(244, 143, 177, 0.3);
+        transition: transform 0.3s, background 0.3s;
+        display: inline-block;
+    }
+
+    .btn-main:hover {
+        transform: translateY(-5px);
+        background: #f06292;
+    }
+
+    .hero-image {
+        flex: 1;
+        position: relative;
+    }
+
+    .hero-image img {
+        width: 100%;
+        border-radius: 30px;
+        box-shadow: var(--shadow);
+        transform: rotate(2deg);
+    }
+
+    .stats {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+        margin-top: 4rem;
+    }
+
+    .stat-card {
+        background: white;
+        padding: 2rem;
+        border-radius: 20px;
+        box-shadow: var(--shadow);
+        text-align: center;
+    }
+
+    .stat-card h3 {
+        color: var(--primary);
+        margin-bottom: 0.5rem;
+    }
+</style>
+
+<section class="hero">
+    <div class="hero-content">
+        <h1>Pastan Senin <span>İmzan</span> Olsun.</h1>
+        <p>Hayalindeki tasarımı oluştur, kalorini takip et ve eşsiz lezzete adım adım ulaş.</p>
+        <a href="/Design" class="btn-main">Şimdi Tasarlamaya Başla</a>
+    </div>
+    <div class="hero-image">
+        <img src="/images/pastry-hero.jpg" alt="Pastimza Hero">
+    </div>
+</section>
+
+<section class="stats">
+    <div class="stat-card">
+        <h3>Kişiselleştirme</h3>
+        <p>Binlerce malzeme kombinasyonu ile tamamen size özel.</p>
+    </div>
+    <div class="stat-card">
+        <h3>Kalori Takibi</h3>
+        <p>Her malzemenin besin değerini anlık olarak görün.</p>
+    </div>
+    <div class="stat-card">
+        <h3>Güvenli Seçim</h3>
+        <p>Profilinizdeki alerjenlere göre akıllı uyarı sistemi.</p>
+    </div>
+</section>

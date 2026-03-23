@@ -1,0 +1,17 @@
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\bin\Debug\net10.0\Pastimza.BusinessLayer.deps.json
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\bin\Debug\net10.0\Pastimza.BusinessLayer.dll
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\bin\Debug\net10.0\Pastimza.BusinessLayer.pdb
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\bin\Debug\net10.0\Pastimza.DataAccessLayer.dll
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\bin\Debug\net10.0\Pastimza.EntityLayer.dll
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\bin\Debug\net10.0\Pastimza.DataAccessLayer.pdb
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\bin\Debug\net10.0\Pastimza.EntityLayer.pdb
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\Pastimza.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\Pastimza.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\Pastimza.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\Pastimza.BusinessLayer.AssemblyInfo.cs
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\Pastimza.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\Pastimza.728398CF.Up2Date
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\Pastimza.BusinessLayer.dll
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\refint\Pastimza.BusinessLayer.dll
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\Pastimza.BusinessLayer.pdb
+C:\Users\cavit\Desktop\Pastizma\Pastimza.BusinessLayer\obj\Debug\net10.0\ref\Pastimza.BusinessLayer.dll

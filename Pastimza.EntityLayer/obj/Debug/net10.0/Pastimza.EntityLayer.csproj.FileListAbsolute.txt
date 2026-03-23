@@ -1,0 +1,11 @@
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\bin\Debug\net10.0\Pastimza.EntityLayer.deps.json
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\bin\Debug\net10.0\Pastimza.EntityLayer.dll
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\bin\Debug\net10.0\Pastimza.EntityLayer.pdb
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\obj\Debug\net10.0\Pastimza.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\obj\Debug\net10.0\Pastimza.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\obj\Debug\net10.0\Pastimza.EntityLayer.AssemblyInfo.cs
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\obj\Debug\net10.0\Pastimza.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\obj\Debug\net10.0\Pastimza.EntityLayer.dll
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\obj\Debug\net10.0\refint\Pastimza.EntityLayer.dll
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\obj\Debug\net10.0\Pastimza.EntityLayer.pdb
+C:\Users\cavit\Desktop\Pastizma\Pastimza.EntityLayer\obj\Debug\net10.0\ref\Pastimza.EntityLayer.dll
